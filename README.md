@@ -1,2 +1,3 @@
+- [blog](https://blackd-kesk.github.io/blog)
 - [pages](https://black-desk.github.io/pages)
 - [errors](https://black-desk.github.io/errors)
